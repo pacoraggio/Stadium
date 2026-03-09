@@ -6,12 +6,14 @@ This repository contains analysis of new stadiums built in Europe over the last 
 
 - `analysis.ipynb` – main Jupyter notebook documenting the data analysis.
 - `data/` – supporting datasets (.csv or .xlsx) used in the analysis.
+- `LLM outputs/` - files generated within LLMs prompts
+- `notebooks` - additional notebooks for data wrangling
 
 ## Getting Started
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/european-stadiums.git
+   git clone https://github.com/pacoraggio/Stadium.git
    ```
 2. Install dependencies (e.g., pandas, matplotlib, seaborn, etc.).
 3. Open and run `analysis.ipynb` in Jupyter.
